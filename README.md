@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying communication engineering at Menofia University.
+- 🎓 &nbsp; Studyed communication engineering at Menofia University.
 - 💼 &nbsp; Looking for a new vacancy as a JavaScript developer.
 - 🌱 &nbsp; Learning more about web development, Systems Design and Artificial Intelligence.
 
